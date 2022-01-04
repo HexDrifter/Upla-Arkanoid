@@ -148,6 +148,10 @@ PrefabInstance:
       propertyPath: score
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -225,6 +229,10 @@ PrefabInstance:
       propertyPath: score
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -302,6 +310,10 @@ PrefabInstance:
       propertyPath: score
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -432,6 +444,10 @@ PrefabInstance:
       propertyPath: score
       value: 40
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -551,6 +567,10 @@ PrefabInstance:
       propertyPath: score
       value: 40
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -628,6 +648,10 @@ PrefabInstance:
       propertyPath: score
       value: 40
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -705,6 +729,10 @@ PrefabInstance:
       propertyPath: score
       value: 40
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -816,6 +844,10 @@ PrefabInstance:
       propertyPath: score
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -981,6 +1013,10 @@ PrefabInstance:
       propertyPath: score
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -1068,6 +1104,10 @@ PrefabInstance:
       propertyPath: score
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -1227,6 +1267,10 @@ PrefabInstance:
       propertyPath: score
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -1347,7 +1391,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f08c1a42e2d170e42989622222d64e3d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lives: 3
 --- !u!4 &924340828 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5387202105111384727, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
@@ -1368,6 +1411,10 @@ PrefabInstance:
       propertyPath: score
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -1430,6 +1477,133 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+--- !u!1 &1065208341
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1065208343}
+  - component: {fileID: 1065208342}
+  m_Layer: 0
+  m_Name: Audio Source
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &1065208342
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1065208341}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 967625f83197184479224d93dade5eff, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 0.129
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &1065208343
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1065208341}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 180.66647, y: 61.059532, z: -47.652603}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1072384251
 GameObject:
   m_ObjectHideFlags: 0
@@ -1480,6 +1654,146 @@ Transform:
   - {fileID: 769196995}
   m_Father: {fileID: 0}
   m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1074878509
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1074878512}
+  - component: {fileID: 1074878511}
+  - component: {fileID: 1074878510}
+  m_Layer: 0
+  m_Name: beepMachine
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1074878510
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1074878509}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5fc518395d56044f8d5f0fb277db043, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!82 &1074878511
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1074878509}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: b911f4e43e929f9418e88fd944cece6a, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &1074878512
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1074878509}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 180.66647, y: 61.059532, z: -47.652603}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1099387226 stripped
 Transform:
@@ -1582,6 +1896,10 @@ PrefabInstance:
       propertyPath: score
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -1659,6 +1977,10 @@ PrefabInstance:
       propertyPath: score
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -1776,6 +2098,10 @@ PrefabInstance:
       propertyPath: score
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -1853,6 +2179,10 @@ PrefabInstance:
       propertyPath: score
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -1935,6 +2265,10 @@ PrefabInstance:
       propertyPath: score
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -2027,6 +2361,10 @@ PrefabInstance:
       propertyPath: score
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -2120,6 +2458,10 @@ PrefabInstance:
       propertyPath: score
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -2197,6 +2539,10 @@ PrefabInstance:
       propertyPath: score
       value: 40
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -2274,6 +2620,10 @@ PrefabInstance:
       propertyPath: score
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -2351,6 +2701,10 @@ PrefabInstance:
       propertyPath: score
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -2432,6 +2786,10 @@ PrefabInstance:
       propertyPath: score
       value: 40
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -2561,6 +2919,10 @@ PrefabInstance:
       propertyPath: score
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -2643,6 +3005,10 @@ PrefabInstance:
       propertyPath: score
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -2720,6 +3086,10 @@ PrefabInstance:
       propertyPath: score
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -2797,6 +3167,10 @@ PrefabInstance:
       propertyPath: score
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -3121,6 +3495,10 @@ PrefabInstance:
       propertyPath: score
       value: 40
       objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384720, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: beepMachine
+      value: 
+      objectReference: {fileID: 1074878510}
     - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Color.b
       value: 1

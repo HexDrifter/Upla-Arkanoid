@@ -122,3 +122,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e45819553e64ba4abcfeaed40ef2ca0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  score: 10
+  beepMachine: {fileID: 0}

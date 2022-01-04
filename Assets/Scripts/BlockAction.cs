@@ -6,6 +6,8 @@ public class BlockAction : MonoBehaviour
 {
     
     public int score = 10;
+    public BeepMachine beepMachine;
+
 
     private void Start()
     {
@@ -17,9 +19,9 @@ public class BlockAction : MonoBehaviour
     {
         //Al golpear el bloque se destruye, se resta el contador
         //de bloques y se suma la puntuación
+        beepMachine.playBeep();
         Destroy(gameObject);
         GameManager.instance.restarBloque();
         GameManager.instance.addScore(score);
-        
     }
 }
