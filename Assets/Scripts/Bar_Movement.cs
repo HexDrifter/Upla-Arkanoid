@@ -7,7 +7,9 @@ public class Bar_Movement : MonoBehaviour
     //código que se encarga de mover la barra(jugador)
 
     Vector2 moveBar;//variable tipo vector 2, posee las coordenadas x e y
-    [SerializeField] public float speed = 0.02f; //velocidad de desplazamiento
+    [SerializeField] public float defaultSpeed = 0.02f; //velocidad de desplazamiento
+    [SerializeField] public float slowSpeed = 0.01f;
+    [SerializeField] public float fastSpeed = 0.03f;
     [SerializeField] public float moveLimit = 7f;//tamaño del espacio de desplazamiento
     void Start()
     {
@@ -16,8 +18,15 @@ public class Bar_Movement : MonoBehaviour
 
     void Update()
     {
-        //Variable movebar guardará el valor de la posición
-        //posición + (velocidad * valor del input)
+        float speed;
+        if (Input.GetKey(KeyCode.C))
+        {
+            speed = slowSpeed;
+        }
+        else
+        {
+            speed = fastSpeed;
+        }
         moveBar.x = (transform.position.x + speed * Input.GetAxisRaw("Horizontal"));
 
         

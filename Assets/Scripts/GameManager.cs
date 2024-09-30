@@ -7,44 +7,35 @@ using UnityEngine.UI;
 public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
-    public Ball_Movement ball;
-    public int scoreGame;
+    public Player player;
     public int lives;
-    private int vidas;
-    public Text textoScore;
-    public Text textolives;
-    public int cantBloques;
+    public List<GameObject> blocksList;
     public string nextLevel;
 
+    [SerializeField] private PlayerUIView _playerUIView;
+
     
-    private void Awake() //Código que se carga antes del primer frame
+    private void Awake()
     {
-        vidas = lives;      //*El valor de vidas guardará el valor de lives,
-                            //así siempre tendremos un default
+
         Singleton();        //*Función para tener una sola instancia y
                             //destruir las instancias duplicadas
         DontDestroy();      //*Función para no destruir la instancia durante
                             //cargas de escenas
-        setToDefault();     //*Función para reiniciar los valores de las
-                            //variables
-    }
-    private void Update()
-    {
-        textoScore.text = ("Score: " + scoreGame);
-        textolives.text = ("Vidas: " + lives);
 
+        player = new Player(lives);
+        var playerViewModel = new PlayerViewModel(player.score, player.lives);
+        var playerPresenter = new PlayerPresenter(playerViewModel);
+        var setScoreUseCase = new SetScoreUseCase(playerPresenter);
+        _playerUIView.SetModel(playerViewModel);
 
-    }
+        ServiceLocator.Instance.RegisterService<SetScoreUseCase>(setScoreUseCase);
 
-    public void setToDefault()
-    {
-        lives = vidas;
-        scoreGame = 0;
-        cantBloques = 0;
+        var setLivesUseCase = new SetLivesUseCase(playerPresenter);
+        ServiceLocator.Instance.RegisterService<SetLivesUseCase>(setLivesUseCase);
     }
 
-
-
+    #region singleton
     private void DontDestroy()
     {
         DontDestroyOnLoad(this.gameObject);
@@ -63,34 +54,23 @@ public class GameManager : MonoBehaviour
 
         }
     }
+    #endregion
 
-
-
-    
-
-    
     public void addScore(int score)
     {
-        scoreGame += score;
+        player.AddScore(score);
 
     }
-    public void lostLive()
+
+    public void AddBlock(GameObject block)
     {
-        lives -= 1;
-        if (lives <= 0)
-        {
-            SceneManager.LoadScene("GameOver");
-        }
+        blocksList.Add(block.gameObject);
     }
 
-    public void sumarBloque()
+    public void restarBloque(GameObject block)
     {
-        cantBloques+= 1;
-    }
-    public void restarBloque()
-    {
-        cantBloques -= 1;
-        if (cantBloques <= 0)
+        blocksList.Remove(block.gameObject);
+        if (blocksList.Count <= 0)
         {
             SceneManager.LoadScene(GameManager.instance.nextLevel);
         }

@@ -129,6 +129,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -940,6 +941,42 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Imagen_Prueba_2: 8257243783181128546
+      Imagen_Prueba_9: -8928799482133861910
+      Imagen_Prueba_18: -44464028587348016
+      Imagen_Prueba_12: 3535884537829358866
+      Imagen_Prueba_1: -1990634465204187508
+      Imagen_Prueba_23: -8873931680124324423
+      Imagen_Prueba_16: -20905522657701611
+      Imagen_Prueba_10: 5163495091500666082
+      Imagen_Prueba_19: -417426613570744895
+      Imagen_Prueba_28: -3369127271181167194
+      Imagen_Prueba_25: -1451745822373505647
+      Imagen_Prueba_17: 545788861583000971
+      Imagen_Prueba_7: 2938218880127163553
+      Imagen_Prueba_15: -1404702402125206152
+      Imagen_Prueba_8: 5674159430966819911
+      Imagen_Prueba_31: -4551724283082435525
+      Imagen_Prueba_29: 5239437699789851605
+      Imagen_Prueba_21: -1392935668165784569
+      Imagen_Prueba_14: -8181379667723572581
+      Imagen_Prueba_3: -5055007944609996442
+      Imagen_Prueba_13: 3531253813031487784
+      Imagen_Prueba_20: -6535328588142567488
+      Imagen_Prueba_22: 7525669432366787070
+      Imagen_Prueba_6: -6392033769781494050
+      Imagen_Prueba_11: 1613039913001265332
+      Imagen_Prueba_27: -7933656133773556437
+      Imagen_Prueba_30: 8294909418828743691
+      Imagen_Prueba_32: -5055186276315051925
+      Imagen_Prueba_5: -7450059709393783724
+      Imagen_Prueba_4: -8129640461541768425
+      Imagen_Prueba_0: -6420949360790872067
+      Imagen_Prueba_26: 1808369174665475902
+      Imagen_Prueba_33: -1401245389336895646
+      Imagen_Prueba_34: 6447623570398416476
+      Imagen_Prueba_24: 6051729625983636121
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

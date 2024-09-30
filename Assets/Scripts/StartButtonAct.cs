@@ -6,12 +6,18 @@ using UnityEngine.SceneManagement;
 public class StartButtonAct : MonoBehaviour
 {
     //Este script le da función a los botones iniciar juego y volver al menu principal
-    public void OnClicInStartButton()
+    public void OnClickStartNewGameButton()
     {
         SceneManager.LoadScene("Level1");
+        GameManager.instance.player = new Player();
     }
-    public void OnClicInBackMenuButton()
+    public void OnClickBackMenuButton()
     {
         SceneManager.LoadScene("MainMenu");
+    }
+
+    public void OnClickExitGame()
+    {
+        Application.Quit();
     }
 }

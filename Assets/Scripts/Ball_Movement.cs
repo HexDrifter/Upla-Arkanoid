@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Ball_Movement : MonoBehaviour
 {
-    Rigidbody2D rbody;
+    private Rigidbody2D rbody;
     [SerializeField]    public float speed = 5f;
     [SerializeField]    public float speedUp = 0.3f;
     [SerializeField]    public float altura = 1f;
@@ -56,7 +56,7 @@ public class Ball_Movement : MonoBehaviour
     private void OnTriggerEnter2D()
     {
         isMoving = false;
-        GameManager.instance.lostLive();
+        GameManager.instance.player.LostLive();
         
     }
 
