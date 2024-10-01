@@ -1,0 +1,19 @@
+{
+    "name": "UplaArk.Framework",
+    "rootNamespace": "UplaArk.Framework",
+    "references": [
+        "GUID:ad990d2731ecb24429a6d3cde50933d9",
+        "GUID:50812b85bf8a942438ae3ab81a403fd0",
+        "GUID:43607fb67e1f4ba418c330d94065e141",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

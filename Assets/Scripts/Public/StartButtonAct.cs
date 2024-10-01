@@ -9,7 +9,10 @@ public class StartButtonAct : MonoBehaviour
     public void OnClickStartNewGameButton()
     {
         SceneManager.LoadScene("Level1");
-        GameManager.instance.player = new Player();
+        if (GameManager.instance != null)
+        {
+            GameManager.instance.playerHandler = new UplaArk.Framework.PlayerHandler();
+        }
     }
     public void OnClickBackMenuButton()
     {
