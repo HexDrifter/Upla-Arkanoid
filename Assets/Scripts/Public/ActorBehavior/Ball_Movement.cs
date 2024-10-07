@@ -56,7 +56,7 @@ public class Ball_Movement : MonoBehaviour
     private void OnTriggerEnter2D()
     {
         isMoving = false;
-        GameManager.instance.playerHandler.player.SubstractLife();
+        GameSetup.instance.playerHandler.SubstractLife();
         
     }
 

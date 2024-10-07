@@ -10,7 +10,7 @@ public class Blockbehavior : MonoBehaviour
 
     private void Start()
     {
-        GameManager.instance.AddBlock(this.gameObject);
+        GameSetup.instance.AddBlock(this.gameObject);
     }
 
     private void OnCollisionEnter2D()
@@ -18,8 +18,8 @@ public class Blockbehavior : MonoBehaviour
         //Al golpear el bloque se destruye, se resta el contador
         //de bloques y se suma la puntuación
         beepMachine.playBeep();
-        GameManager.instance.addScore(score);
-        GameManager.instance.SubstractBlock(this.gameObject);
+        GameSetup.instance.addScore(score);
+        GameSetup.instance.SubstractBlock(this.gameObject);
 
         Destroy(gameObject);
     }

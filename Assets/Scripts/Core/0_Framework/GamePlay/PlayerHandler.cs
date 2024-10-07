@@ -28,7 +28,7 @@ namespace UplaArk.Framework
             player.AddScore(scoreValue);
             ServiceLocator.Instance.GetService<SetScore>().SetScoreValue(player.score);
         }
-        public void LostLive()
+        public void SubstractLife()
         {
             player.SubstractLife();
             ServiceLocator.Instance.GetService<SetLives>().SetLiveValue(player.lives);

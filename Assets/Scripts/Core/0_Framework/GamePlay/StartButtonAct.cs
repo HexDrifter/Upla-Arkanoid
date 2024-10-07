@@ -12,7 +12,7 @@ public class StartButtonAct : MonoBehaviour
     }
     public void OnClickBackMenuButton()
     {
-        SceneManager.LoadScene("MainMenu");
+        SceneManager.LoadScene("Main");
     }
 
     public void OnClickExitGame()

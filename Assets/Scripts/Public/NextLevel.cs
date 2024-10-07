@@ -7,6 +7,6 @@ public class NextLevel : MonoBehaviour
     public string nextLevel = "";
     void Start()
     {
-        GameManager.instance.nextLevel = nextLevel;
+        GameSetup.instance.nextLevel = nextLevel;
     }
 }
