@@ -134,6 +134,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   defaultSpeed: 0.04
-  slowSpeed: 0.04
-  fastSpeed: 0.08
+  slowSpeed: 0.2
+  fastSpeed: 0.4
   moveLimit: 6.3

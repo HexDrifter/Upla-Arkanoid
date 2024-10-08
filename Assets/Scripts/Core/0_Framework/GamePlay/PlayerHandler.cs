@@ -32,10 +32,14 @@ namespace UplaArk.Framework
         {
             player.SubstractLife();
             ServiceLocator.Instance.GetService<SetLives>().SetLiveValue(player.lives);
-            if (player.lives <= 0)
-            {
-                SceneManager.LoadScene("GameOver");
-            }
+        }
+        public void EndGame()
+        {
+            SceneManager.LoadScene("GameOver");
+        }
+        public int GetLives()
+        {
+            return player.lives;
         }
     }
 }

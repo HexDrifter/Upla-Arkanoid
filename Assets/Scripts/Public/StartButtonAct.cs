@@ -1,3 +1,4 @@
+using DG.Tweening;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -5,19 +6,32 @@ using UnityEngine.SceneManagement;
 
 public class StartButtonAct : MonoBehaviour
 {
-    //Este script le da función a los botones iniciar juego y volver al menu principal
     public void OnClickStartNewGameButton()
     {
+        StartCoroutine(WaitAndStart());
+        
+    }
+    IEnumerator WaitAndStart()
+    {
+        yield return BlackScreen.instance.FadeIn().WaitForCompletion();
         SceneManager.LoadScene("Level1");
-        if (GameSetup.instance != null)
+
+        if (GameSystem.instance.levelSetup != null)
         {
-            GameSetup.instance.playerHandler = new UplaArk.Framework.PlayerHandler();
+            GameSystem.instance.levelSetup.playerHandler = new UplaArk.Framework.PlayerHandler();
         }
     }
     public void OnClickBackMenuButton()
     {
-        SceneManager.LoadScene("MainMenu");
-        Destroy(GameSetup.instance);
+        StartCoroutine (WaitAndGoBack());
+    }
+
+    IEnumerator WaitAndGoBack()
+    {
+        yield return BlackScreen.instance.FadeIn().WaitForCompletion();
+        SceneManager.LoadScene("Main");
+        Destroy(GameSystem.instance.levelSetup);
+        Destroy(BlackScreen.instance.gameObject);
     }
 
     public void OnClickExitGame()
