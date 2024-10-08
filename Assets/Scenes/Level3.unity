@@ -134,6 +134,18 @@ PrefabInstance:
       propertyPath: beepMachine
       value: 
       objectReference: {fileID: 397457696}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.b
+      value: 0.8000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.g
+      value: 0.62352943
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.r
+      value: 0.33333334
+      objectReference: {fileID: 0}
     - target: {fileID: 5387202105111384724, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Name
       value: Block 2
@@ -266,6 +278,18 @@ PrefabInstance:
       propertyPath: beepMachine
       value: 
       objectReference: {fileID: 397457696}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.b
+      value: 0.41960788
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.g
+      value: 0.3921569
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.r
+      value: 0.45098042
+      objectReference: {fileID: 0}
     - target: {fileID: 5387202105111384724, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Name
       value: Block 2
@@ -436,6 +460,18 @@ PrefabInstance:
       propertyPath: beepMachine
       value: 
       objectReference: {fileID: 397457696}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.b
+      value: 0.8000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.g
+      value: 0.62352943
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.r
+      value: 0.33333334
+      objectReference: {fileID: 0}
     - target: {fileID: 5387202105111384724, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Name
       value: Block 7
@@ -563,6 +599,18 @@ PrefabInstance:
       propertyPath: beepMachine
       value: 
       objectReference: {fileID: 397457696}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.b
+      value: 0.41960788
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.g
+      value: 0.3921569
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.r
+      value: 0.45098042
+      objectReference: {fileID: 0}
     - target: {fileID: 5387202105111384724, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Name
       value: Block 3
@@ -667,6 +715,18 @@ PrefabInstance:
       propertyPath: beepMachine
       value: 
       objectReference: {fileID: 397457696}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.b
+      value: 0.41960788
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.g
+      value: 0.3921569
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.r
+      value: 0.45098042
+      objectReference: {fileID: 0}
     - target: {fileID: 5387202105111384724, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Name
       value: Block 3
@@ -1002,6 +1062,18 @@ PrefabInstance:
       propertyPath: beepMachine
       value: 
       objectReference: {fileID: 397457696}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.b
+      value: 0.41960788
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.g
+      value: 0.3921569
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.r
+      value: 0.45098042
+      objectReference: {fileID: 0}
     - target: {fileID: 5387202105111384724, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Name
       value: Block 5
@@ -1068,6 +1140,18 @@ PrefabInstance:
       propertyPath: beepMachine
       value: 
       objectReference: {fileID: 397457696}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.b
+      value: 0.41960788
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.g
+      value: 0.3921569
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.r
+      value: 0.45098042
+      objectReference: {fileID: 0}
     - target: {fileID: 5387202105111384724, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Name
       value: Block 2
@@ -1238,6 +1322,18 @@ PrefabInstance:
       propertyPath: beepMachine
       value: 
       objectReference: {fileID: 397457696}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.b
+      value: 0.8000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.g
+      value: 0.62352943
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.r
+      value: 0.33333334
+      objectReference: {fileID: 0}
     - target: {fileID: 5387202105111384724, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Name
       value: Block 6
@@ -1370,6 +1466,18 @@ PrefabInstance:
       propertyPath: beepMachine
       value: 
       objectReference: {fileID: 397457696}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.b
+      value: 0.41960788
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.g
+      value: 0.3921569
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.r
+      value: 0.45098042
+      objectReference: {fileID: 0}
     - target: {fileID: 5387202105111384724, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Name
       value: Block 1
@@ -1586,6 +1694,18 @@ PrefabInstance:
       propertyPath: beepMachine
       value: 
       objectReference: {fileID: 397457696}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.b
+      value: 0.41960788
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.g
+      value: 0.3921569
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.r
+      value: 0.45098042
+      objectReference: {fileID: 0}
     - target: {fileID: 5387202105111384724, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Name
       value: Block 4
@@ -1652,6 +1772,18 @@ PrefabInstance:
       propertyPath: beepMachine
       value: 
       objectReference: {fileID: 397457696}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.b
+      value: 0.41960788
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.g
+      value: 0.3921569
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.r
+      value: 0.45098042
+      objectReference: {fileID: 0}
     - target: {fileID: 5387202105111384724, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Name
       value: Block 5
@@ -1756,6 +1888,18 @@ PrefabInstance:
       propertyPath: beepMachine
       value: 
       objectReference: {fileID: 397457696}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.b
+      value: 0.8000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.g
+      value: 0.62352943
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.r
+      value: 0.33333334
+      objectReference: {fileID: 0}
     - target: {fileID: 5387202105111384724, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Name
       value: Block 1
@@ -1926,6 +2070,18 @@ PrefabInstance:
       propertyPath: beepMachine
       value: 
       objectReference: {fileID: 397457696}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.b
+      value: 0.41960788
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.g
+      value: 0.3921569
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.r
+      value: 0.45098042
+      objectReference: {fileID: 0}
     - target: {fileID: 5387202105111384724, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Name
       value: Block 3
@@ -2124,6 +2280,18 @@ PrefabInstance:
       propertyPath: beepMachine
       value: 
       objectReference: {fileID: 397457696}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.b
+      value: 0.41960788
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.g
+      value: 0.3921569
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.r
+      value: 0.45098042
+      objectReference: {fileID: 0}
     - target: {fileID: 5387202105111384724, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Name
       value: Block 4
@@ -2190,6 +2358,18 @@ PrefabInstance:
       propertyPath: beepMachine
       value: 
       objectReference: {fileID: 397457696}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.b
+      value: 0.41960788
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.g
+      value: 0.3921569
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.r
+      value: 0.45098042
+      objectReference: {fileID: 0}
     - target: {fileID: 5387202105111384724, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Name
       value: Block 6
@@ -2444,6 +2624,18 @@ PrefabInstance:
       propertyPath: beepMachine
       value: 
       objectReference: {fileID: 397457696}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.b
+      value: 0.8000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.g
+      value: 0.62352943
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.r
+      value: 0.33333334
+      objectReference: {fileID: 0}
     - target: {fileID: 5387202105111384724, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Name
       value: Block 1
@@ -2642,6 +2834,18 @@ PrefabInstance:
       propertyPath: beepMachine
       value: 
       objectReference: {fileID: 397457696}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.b
+      value: 0.8000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.g
+      value: 0.62352943
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.r
+      value: 0.33333334
+      objectReference: {fileID: 0}
     - target: {fileID: 5387202105111384724, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Name
       value: Block 7
@@ -2708,6 +2912,18 @@ PrefabInstance:
       propertyPath: beepMachine
       value: 
       objectReference: {fileID: 397457696}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.b
+      value: 0.41960788
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.g
+      value: 0.3921569
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.r
+      value: 0.45098042
+      objectReference: {fileID: 0}
     - target: {fileID: 5387202105111384724, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Name
       value: Block 5
@@ -2890,6 +3106,18 @@ PrefabInstance:
       propertyPath: beepMachine
       value: 
       objectReference: {fileID: 397457696}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.b
+      value: 0.41960788
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.g
+      value: 0.3921569
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.r
+      value: 0.45098042
+      objectReference: {fileID: 0}
     - target: {fileID: 5387202105111384724, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Name
       value: Block 6
@@ -2956,6 +3184,18 @@ PrefabInstance:
       propertyPath: beepMachine
       value: 
       objectReference: {fileID: 397457696}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.b
+      value: 0.41960788
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.g
+      value: 0.3921569
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.r
+      value: 0.45098042
+      objectReference: {fileID: 0}
     - target: {fileID: 5387202105111384724, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Name
       value: Block 4
@@ -3219,6 +3459,18 @@ PrefabInstance:
       propertyPath: beepMachine
       value: 
       objectReference: {fileID: 397457696}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.b
+      value: 0.41960788
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.g
+      value: 0.3921569
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387202105111384721, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
+      propertyPath: m_Color.r
+      value: 0.45098042
+      objectReference: {fileID: 0}
     - target: {fileID: 5387202105111384724, guid: ffec98f354c12cd4fa559a373240f1ba, type: 3}
       propertyPath: m_Name
       value: Block 7
